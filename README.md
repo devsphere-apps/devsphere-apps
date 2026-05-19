@@ -3,7 +3,7 @@
 # Hi, I'm Abdul Mateen 👋
 ### Agentic AI Engineer · Full Stack Developer · Security-Focused Builder
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Autonomous+AI+Agents+%F0%9F%A4%96;React+Native+%7C+Next.js+%7C+Node.js;SOC+Analyst+%7C+Cybersecurity+%F0%9F%94%90;From+Chitral%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Autonomous+AI+Agents+%F0%9F%A4%96;React+Native+%7C+Next.js+%7C+Node.js;SOC+Analyst+%7C+Cybersecurity+%F0%9F%94%90;From+Peshawar%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
 
 </div>
 
