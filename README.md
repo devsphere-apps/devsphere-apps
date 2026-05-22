@@ -76,7 +76,7 @@ I'm a **Full Stack & Agentic AI Engineer** from Peshawar, Pakistan — building 
 - FAISS vector store + OpenAI embeddings
 - Built with LangChain + Streamlit
 
-[![GitHub](https://img.shields.io/badge/View%20Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devsphere-apps/agentic-ai-practice)
+[![GitHub](https://img.shields.io/badge/View%20Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devsphere-apps/agentic-ai-practice/blob/main/19_rag_chatbot.py)
 
 `Python` `LangChain` `FAISS` `Streamlit` `OpenAI`
 
