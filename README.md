@@ -82,6 +82,17 @@ I'm a **Full Stack & Agentic AI Engineer** from Peshawar, Pakistan — building 
 
 ---
 
+### 🛡️ SOC AI Agent
+> Autonomous security log analyzer — Multi-Agent AI System
+
+- Multi-agent pipeline: Analyzer → Hunter → Router → Alert
+- Real-time threat detection with severity routing
+- Built with LangGraph + Streamlit
+
+[![GitHub](https://img.shields.io/badge/View%20Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devsphere-apps/agentic-ai-practice)
+
+`Python` `LangGraph` `OpenAI` `Streamlit`
+
 ## 🎯 2026 Roadmap
 
 ```
@@ -91,6 +102,7 @@ I'm a **Full Stack & Agentic AI Engineer** from Peshawar, Pakistan — building 
 ✅ Memory Management
 ✅ Tool Integration
 ✅ RAG Systems
+✅ Multi-Agent Systems
 ```
 
 ---
